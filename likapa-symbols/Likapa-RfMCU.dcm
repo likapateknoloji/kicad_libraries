@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MS46SF11
+D Small-sized nRF52805 Module
+K Bluetooth,Module,Compact,Low power
+F https://www.blume-elektronik.de/wp-content/uploads/2020/07/MS46SF11-V1.0_52805-Datasheet.pdf
+$ENDCMP
+#
+#End Doc Library
