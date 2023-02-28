@@ -1,4 +1,4 @@
-(module MP-3B (layer F.Cu) (tedit 5EABF9B8)
+(module MP-3B (layer F.Cu) (tedit 60ACEF2A)
   (descr "Winsen MP-3B Alcohol Gas sensor")
   (tags "gas, sensor, alcohol")
   (fp_text reference REF** (at 0.6 0.1) (layer F.SilkS)
@@ -17,9 +17,9 @@
   (pad 2 thru_hole oval (at -1.55 -1.55) (size 1.4 1.4) (drill 0.7) (layers *.Cu *.Mask))
   (pad 4 thru_hole oval (at -1.55 1.55) (size 1.4 1.4) (drill 0.7) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 1.55 1.55) (size 1.4 1.4) (drill 0.7) (layers *.Cu *.Mask))
-  (model "${KICAD_USER_3DMOD}/User Library-MQ303A.STEP"
+  (model "${ALT3DMOD}/User Library-MQ303A.step"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 0))
+    (rotate (xyz -90 0 45))
   )
 )
